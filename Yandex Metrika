@@ -75,6 +75,8 @@ stat.yandex.ru
 # t.host.yandex.net - Хостинг и инфраструктура Яндекса
 t.host.yandex.net
 
+# log.yandex.ru - Логи и аналитка Яндекса
+log.yandex.ru
 # dzen.yandex.ru - Яндекс.Дзен
 dzen.yandex.ru
 
