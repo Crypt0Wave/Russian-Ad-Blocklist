@@ -1,0 +1,77 @@
+# google-analytics.com - Система аналитики от Google для сбора данных о пользователях
+google-analytics.com
+
+# ssl.google-analytics.com - Аналитика Google через безопасное соединение (SSL)
+ssl.google-analytics.com
+
+# www.google-analytics.com - Альтернативный домен для Google Analytics
+www.google-analytics.com
+
+# analytics.google.com - Главная страница системы Google Analytics для управления аналитикой
+analytics.google.com
+
+# doubleclick.net - Рекламная сеть Google для управления баннерами и рекламой
+doubleclick.net
+
+# ad.doubleclick.net - Платформа доставки рекламы от Google
+ad.doubleclick.net
+
+# cm.g.doubleclick.net - Рекламная платформа Google для мобильных и веб-ресурсов
+cm.g.doubleclick.net
+
+# pubads.g.doubleclick.net - Платформа для размещения рекламы от Google
+pubads.g.doubleclick.net
+
+# securepubads.g.doubleclick.net - Защищённая платформа для показа рекламы от Google
+securepubads.g.doubleclick.net
+
+# pagead2.googlesyndication.com - Рекламные сервисы Google для контекстной рекламы
+pagead2.googlesyndication.com
+
+# pagead.l.doubleclick.net - Дополнительный домен для рекламной сети Google
+pagead.l.doubleclick.net
+
+# googleadservices.com - Платформа для управления рекламными кампаниями Google
+googleadservices.com
+
+# ads.google.com - Рекламная сеть Google, использование для рекламы и отслеживания
+ads.google.com
+
+# adssettings.google.com - Страница настройки персонализированной рекламы от Google
+adssettings.google.com
+
+# googlesyndication.com - Платформа Google для синдикации контента и рекламы
+googlesyndication.com
+
+# adservice.google.com - Рекламная платформа Google для размещения и анализа рекламы
+adservice.google.com
+
+# fundingchoicesmessages.google.com - Платформа для управления рекламой и сбора данных пользователей Google
+fundingchoicesmessages.google.com
+
+# googletagmanager.com - Платформа для управления тегами и аналитикой от Google
+googletagmanager.com
+
+# www.googletagmanager.com - Альтернативный домен для платформы управления тегами от Google
+www.googletagmanager.com
+
+# googletagservices.com - Сервисы для интеграции рекламы от Google
+googletagservices.com
+
+# www.googletagservices.com - Альтернативный домен для рекламных сервисов Google
+www.googletagservices.com
+
+# gstaticadssl.google.com - Защищённая версия сервиса Google для рекламы и контента
+gstaticadssl.google.com
+
+# firebase-settings.crashlytics.com - Система для сбора ошибок и статистики по мобильным приложениям (Crashlytics)
+firebase-settings.crashlytics.com
+
+# crashlyticsreports-pa.googleapis.com - Система отчётов об ошибках для мобильных приложений от Google
+crashlyticsreports-pa.googleapis.com
+
+# firebaseinstallations.googleapis.com - API для отслеживания установок мобильных приложений через Firebase
+firebaseinstallations.googleapis.com
+
+# metrics.24h.tv - Система сбора аналитики для видеоконтента от 24h.tv
+metrics.24h.tv
